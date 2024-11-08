@@ -1,10 +1,13 @@
 <template>
   <div class="prose mx-auto mt-12">
-    <h1 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-3xl pb-12">
-<!--      {{ page.title }}-->
-    </h1>
 
-    <ContentDoc />
+
+    <ContentDoc v-slot="{ doc }">
+      <article>
+        <h1 class="mb-20">{{ doc.title }}</h1>
+        <ContentRenderer :value="doc" />
+      </article>
+    </ContentDoc>
 
 <!--    <nuxt-content-->
 <!--      :document="page"-->
