@@ -1,6 +1,5 @@
 <template>
   <div class="prose mx-auto mt-12">
-    ?
     <h1 class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-3xl pb-12">
       {{ page.title }}
     </h1>
