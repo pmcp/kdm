@@ -27,7 +27,6 @@ slug:
 
 
 collections:
-
   - name: 'pages'
     label: 'Pages'
     folder: 'content/pages'
