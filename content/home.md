@@ -64,7 +64,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [HOW NOW](https://jakobvandenbroucke.be/t-i-c/) [](https://index.nadine.be/heimat-the-third-phase/) (T I C  n°4)
 * [Entitijd](https://jakobvandenbroucke.be/t-i-c/) (T I C  n°3)
 * [](https://vriendenvanbrussel.stackstorage.com/s/allemaalopdeberm_publicatie)[Heimat, De Derde Fase](https://index.nadine.be/heimat-the-third-phase/)[](https://index.nadine.be/heimat-the-third-phase/) (T I C  n°1)
-* [T I C ](https://kasperdemeulemeester.be/t-i-c/) (Subscription Formula)
+* [T I C ](/t-i-c/) (Subscription Formula)
 * [DISSEMINATIE](https://jakobvandenbroucke.be/t-i-c) (Vademecum to the Subscription Formula T I C )
 * [Allemaal op de Berm](https://vriendenvanbrussel.stackstorage.com/s/allemaalopdeberm_publicatie)
 * [A4's (you for I): euphoria](https://index.nadine.be/a4s-you-for-i-euphoria/)
