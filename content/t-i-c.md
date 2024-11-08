@@ -2,7 +2,7 @@
 title: T I C
 date: 2023-07-27T08:08:20.492Z
 ---
-![]( "T I C fields of flowers")
+![](/assets/uploads/whatsapp-image-nov-8-2024-1-.jpeg "T I C fields of flowers")
 
 EEN ABONNEMENT OP T I C KOST 25 EUR. 
 
@@ -19,7 +19,7 @@ T I C 	EEN PERIODIEKE PUBLICATIEVORM
 T I C 	EEN MAP DIE U KAN AANVULLEN, ORDENEN, THEMATISEREN, UPDATEN, ANNOTEREN EN 
 	VERDER VERSPREIDEN NAASTEN NIET VERSTAAN
 
-![]()
+![](/assets/uploads/whatsapp-image-nov-8-2024.jpeg)
 
 T I C	EEN ABONNEMENT
 
