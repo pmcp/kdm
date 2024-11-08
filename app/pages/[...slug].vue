@@ -1,13 +1,12 @@
 <template>
   <div class="prose mx-auto mt-12">
 
-
-    <ContentDoc v-slot="{ doc }">
+    <ContentQuery :path="$route.path" find="one" v-slot="{ data }">
       <article>
-        <h1 class="mb-20">{{ doc.title }}</h1>
-        <ContentRenderer :value="doc" />
+      <h1 class="mb-20">{{ data.title }}</h1>
+      <ContentRenderer :value="data" class="prose" />
       </article>
-    </ContentDoc>
+    </ContentQuery>
 
 <!--    <nuxt-content-->
 <!--      :document="page"-->
