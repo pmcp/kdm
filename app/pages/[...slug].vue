@@ -4,7 +4,7 @@
 <!--      {{ page.title }}-->
     </h1>
 
-    <ContentDoc path="/t-i-c" />
+    <ContentDoc />
 
 <!--    <nuxt-content-->
 <!--      :document="page"-->
