@@ -55,7 +55,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [WAB.zone](http://wab.zone)
 * [Tropicana](http://instagram.com/tropicanabxl)
 
-  * Started in 2016, this space at the corner of de Hooikaai and the Lakensestraat, next to the KVS theater in the center of Brussels was the longest-running of Kasper's organisational artworks. In the end it was mainly active as a social grocery and foodbank, in collaboration with *[Femmes d'Algers et d'Ailleurs asbl](< https://www.grand-hospice.brussels › portfolio-item › femmes-dalger-et-dailleurs>)*. In the spring of 2024, works will start at the building where *Tropicana* is housed, which is owned by the OCMW of the city of Brussels. 
+  * Started in 2016, this space at the corner of de Hooikaai and the Lakensestraat, next to the KVS theater in the center of Brussels was the longest-running of Kasper's organisational artworks. In the end it was mainly active as a social grocery and foodbank, in collaboration with *[Femmes d'Algers et d'Ailleurs asbl](https://www.grand-hospice.brussels)*. In the spring of 2024, works will start at the building where *Tropicana* is housed, which is owned by the OCMW of the city of Brussels. 
 
 \--------------------------------------------------
 
@@ -67,7 +67,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [T I C ](https://kasperdemeulemeester.be/t-i-c/) (Subscription Formula)
 * [DISSEMINATIE](https://jakobvandenbroucke.be/t-i-c) (Vademecum to the Subscription Formula T I C )
 * [Allemaal op de Berm](https://vriendenvanbrussel.stackstorage.com/s/allemaalopdeberm_publicatie)
-* [A4's (you for I): euphoria](<* https://index.nadine.be/a4s-you-for-i-euphoria/>)
+* [A4's (you for I): euphoria](https://index.nadine.be/a4s-you-for-i-euphoria/)
 * [Heimat, fase 2: De Verderzetting ](https://index.nadine.be/de-verderzetting-periodical-of-the-project-heimat-2021/)
 * [Heimat, fase 1: De Tocht](https://index.nadine.be/de-tocht-nr-1-summer-2020/)
 * [Correspondentie](https://vriendenvanbrussel.stackstorage.com/s/corresp_trailer) - SOLD OUT 

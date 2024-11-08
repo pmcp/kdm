@@ -29,7 +29,7 @@ slug:
 collections:
   - name: 'pages'
     label: 'Pages'
-    folder: 'content/pages'
+    folder: 'content'
     format: 'frontmatter'
     create: true
     slug: '{{slug}}'

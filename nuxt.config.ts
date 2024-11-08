@@ -6,6 +6,11 @@ export default defineNuxtConfig({
   future: { compatibilityVersion: 4 },
   // Nuxt Modules
   // https://nuxt.com/modules
-  modules: ['@nuxt/eslint', '@nuxt/content', '@nuxt/image'],
+  modules: [
+    '@nuxt/eslint',
+    '@nuxt/content',
+    '@nuxt/image',
+    '@nuxtjs/tailwindcss',
+  ],
   devtools: { enabled: true },
 })
