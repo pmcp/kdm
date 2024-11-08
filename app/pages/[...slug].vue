@@ -1,7 +1,5 @@
 <template>
   <div class="prose mx-auto mt-12">
-
-
     <ContentDoc v-slot="{ doc }">
       <article>
         <h1 class="mb-20">{{ doc.title }}</h1>
