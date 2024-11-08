@@ -16,4 +16,11 @@ export default defineNuxtConfig({
   image: {
     provider: 'netlify'
   },
+  app: {
+    head: {
+      script: [
+        { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }
+      ]
+    }
+  },
 })
