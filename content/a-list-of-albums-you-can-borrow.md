@@ -5,44 +5,57 @@ date: 2024-11-08T14:01:00.000Z
 a-chronological-list-of-albums-listened-to-by-kasper-demeulemeester-since-March-7-2022-not-making-use-of-a-computer-or-smartphone-all-of-which-can-be-borrowed-[on-simple-request](mailto:estate@kasperdemeulemeester.be)
 
 Rozi Plain - Friend
+
 Roy Orbison - the very best of
+
 Frank Sinatra - the best of (reprise)
 
 Golden Hour presents Isaac Hayes
+
 Kevin Morby - Singing Saw
+
 Charlie Jones’ Big Band - because we’re Young
+
 Eric Clapton - Clapton Chronicles
+
 Le grand bleu - Eric Serra
 
 Sinatra - Rarities
+
 The National - Trouble will find me
 
 Janis Joplin - Pearl
+
 Western - compilatie
 
 Marissa Nadler - the Saga of Mayflower May
 
 Dylan - verzamelaar uncut
+
 Lambchop - Aw C’mon No You C’mon
 
 Daniel Baremboim plays Chopin
+
 Roxy Music - For your pleasure
 
 Gram Parsons - GP
+
 Bryan Ferry - boys and girls
 
 Chet Baker - the Italian sessions
 
 Marissa Nadler - the Saga of Mayflower May
+
 Floating Points & Pharaoh Sanders & the London Symphony Orchestra
+
 Tom Waits - Rain Dogs
 
 Tom Rush - Take a Little Walk with me
 
 Adia Victoria - Southern Gothic
-Jason Isbell -
 
 Mogwai - As the love continues
+
 Bob Dylan - Blood on the tracks
 
 CassMcCombs - Catacombs
@@ -50,14 +63,17 @@ CassMcCombs - Catacombs
 Chico Hamilton - El Chico
 
 Elliott Smith - From a basement on a Hill
+
 Bonnie ‘Prince’ Billie- sings Greatest Palace Music
 
 Jean-Michel Jarre - best of
+
 Bob Seger - Against the Wind
 
 Bonnie ‘Prince’ Billie- sings Greatest Palace Music
 
 Giant Sand - Is all over
+
 Bert Kaempfert - Tropical Sunrise
 
 Saturday Night Fever
@@ -65,11 +81,13 @@ Saturday Night Fever
 John Coltrane - A Love Supreme
 
 Floating Points & Pharaoh Sanders & the London Symphony Orchestra
+
 The Veils - Runaway Band
 
 Johannes Brahms - 21 danses hongroises
 
 Jay-Z - In my lifetime, vol. 1
+
 Panda Bear - Person Pitch
 
 Jay-Z - In my lifetime, vol. 1
@@ -79,18 +97,23 @@ The Beatles - Abbey Road
 Aaron Embry - Tiny Prayers
 
 Johnny Cash - American Outtakes
+
 Vetiver - Things of the Past
 
 Vetiver - To Find me Gone
 
 Tortoise - It’s all around us
+
 Johnny Cash - Now here comes…
+
 Al Green - Gets next to you
 
 The Eagles - Hotel California
+
 Cass McCombs - Catacombs
 
 Peter Ivers Band - Knights of the Blue Communion
+
 Amythyst Kia - wary + strange
 
 Mercelis - Flemish White Trash
