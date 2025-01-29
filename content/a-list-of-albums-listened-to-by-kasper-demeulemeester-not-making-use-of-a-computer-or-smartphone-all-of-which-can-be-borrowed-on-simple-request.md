@@ -619,4 +619,64 @@ Various-In-Flight-Program-Revelation-Records-Collection-97
 
 Evan Dando - Baby I’m Bored
 
-Evan Dando - Baby I’m Bored
+Cake - Comfort Eagle
+
+Josh T. Pearson - Last of the Country Gentlemen
+
+Daan - Verbonden te Zuchten
+
+Emil Gilels - Tchaikovsky Concerto No. 1
+
+Thijs van Leer - O My Love
+
+Iron & Wine - The Creek drank the Cradle
+
+Iron & Wine - The Creek drank the Cradle
+
+Rozi Plain - Friend
+
+Spiritualized - Huh?
+
+Joe South - Greatest Hits Vol.1
+
+Sufjan Stevens - presents greetings from Michigan the Great Lake State
+
+Sufjan Stevens - Seven Swans
+
+Sufjan Stevens - Seven Swans
+
+The Cure - Boys don’t cry
+
+The Statler Brothers - Ride Again Greatest Hits Vol. II
+
+Bobbejaan Schoepen - Bravo Bobbejaan!
+
+Neil Diamond - Serenade
+
+Kinks - vol.1 Lola versus Powerman and the Moneygoround
+
+The Kingston Trio - s/n
+
+Ninna Oh
+
+The Kingston Trio - s/n
+
+The Kingston Trio - At Large
+
+The Kingston Trio - s/n
+
+The Kingston Trio - At Large
+
+The Supremes - Best of
+
+Bonnie “Prince” Billy - Sings Palace Music
+
+Fritz Schulz-Reichel - Golden Hits
+
+Mountain Man - Made the Harbor
+
+Jean-Michel Jarre - Images - best of
+
+eels - end times 
+
+Suzanne Vega - Songs in Red and Blue
