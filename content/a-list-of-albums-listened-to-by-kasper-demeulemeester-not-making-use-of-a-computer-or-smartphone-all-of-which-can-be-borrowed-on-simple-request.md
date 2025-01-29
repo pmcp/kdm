@@ -1,7 +1,9 @@
 ---
-title: a-list-of-albums-listened-to-by-kasper-demeulemeester-not-making-use-of-a-computer-or-smartphone-all-of-which-can-be-borrowed-on-simple-request
+title: a list of albums you can borrow
 date: 2024-11-08T14:01:00.000Z
 ---
+a-chronological-list-of-albums-listened-to-by-kasper-demeulemeester-since-March-7-2022-not-making-use-of-a-computer-or-smartphone-all-of-which-can-be-borrowed-[on-simple-request](mailto:estate@kasperdemeulemeester.be)
+
 Rozi Plain - Friend
 Roy Orbison - the very best of
 Frank Sinatra - the best of (reprise)
