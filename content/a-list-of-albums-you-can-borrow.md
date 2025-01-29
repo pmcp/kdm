@@ -129,9 +129,11 @@ Nick Drake - Bryter Layter
 Songs of our Native Daughters
 
 Rik Heylen - Alleen op zaterdag
+
 Merle Haggard and the Strangers - Eleven Winners
 
 Allison Russell - Outside Child
+
 Al Green - Gets next to you
 
 Elvis - Aloha from Hawaii
@@ -139,6 +141,7 @@ Elvis - Aloha from Hawaii
 Early Girls vol.5
 
 Elvis - Raised on Rock
+
 Elvis - I got lucky
 
 Erroll Garner - The King of Jazz Piano
@@ -152,9 +155,11 @@ Kate & Anna McGarrigle - French Record
 The Weavers - Travelling with
 
 Bon Dylan - the Best of the Bootleg Series
+
 Bon Dylan - Blood on the Tracks
 
 The best of the Shangri-La’s
+
 Devandra Banhart - Cripple Crow
 
 A History of Jamaican Vocal Music  - The great reggae trios
@@ -162,13 +167,17 @@ A History of Jamaican Vocal Music  - The great reggae trios
 The National - High Violet
 
 Kent - Cellar of Soul
+
 The Cords - Hear! See! Feel! Taste!
+
 JtotheC - Somebody had to make this record
+
 Supergrass- Road to Rouen
 
 Led Zeppelin - I
 
 Gram Parsons - GP/Grievous Angel
+
 Andrea Bocceli - Amore
 
 Million Sellers Made Famous by the Beatles
@@ -186,9 +195,11 @@ Punk vol.1 Loud and Angry
 Tavener - The Protected Veil - I Fiamminghi
 
 Early Girls, vol. 5
+
 The Beach Boys - Best of Vol. 3
 
 Gemma Ray - It’s à shame about
+
 Life of Agony - Ugly
 
 Cat Power - Moon Pix
