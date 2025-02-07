@@ -83,3 +83,5 @@ To get in contact with the Estate, you can:
 * e-mail [Timo Becker](mailto:%20%20%20%20%20%20%20estate@kasperdemeulemeester.be) (who represents the Estate)
 * [contact nadine](https://index.nadine.be/artists/kasper-demeulemeester/)
 * Meta media ([Facebook](https://facebook.com/demeulemeesterkasper), [Instagram](https://www.instagram.com/kasperdemeulemeester)) are currently no longer managed by the Estate and can be considered historic artefacts.
+
+?
