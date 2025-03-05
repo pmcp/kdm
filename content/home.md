@@ -11,7 +11,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [&&](https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt) (As of February 2025)
 
   * Commission for [new artwork in public&&private space](https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt) GC Nekkersdal, Laken, Brussels, as *collectief van collectieven* with [Jakob Van den Broucke](https://www.JakobVandenBroucke.be) and [Various Artists](http://www.VariousArtists.be)
-* ***Chers Coopérateurs* & HOW NOW, pt. 3** (February 2025)
+* [*Chers Coopérateurs* & HOW NOW, pt. 3 ](< https://vriendenvanbrussel.stackstorage.com/s/HOWNOWIII/nl>)(February 2025)
 
   * as part of the *Executive Committee* of *Temporary Information Center, section Moortebeek* (together with[ Jakob Van den Broucke](<>)))
   * installation and publication on the occasion of the exhibition *[Hier wil ik wonen!](https://c-mine.be/hierwilikwonen)* by vzw Architectuurwijzer, in collaboration with [Joris Kerremans](https://www.joriskerremans.be).
@@ -23,10 +23,11 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
   * Before disbanding the collection of 7" records within the Estate of Kasper Demeulemeester, different actions are undertaken. Some of the music on the records can be found [here](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs).
   * a-chronological-list-of-albums-listened-to-by-kasper-demeulemeester-since-March-7-2022-not-making-use-of-a-computer-or-smartphone-all-of-which-can-be-borrowed-[on-simple-request ](https://kasperdemeulemeester.be/a-list-of-albums-you-can-borrow)
-* [TERMINUS MOORTEBEEK](https://kmplt.org/terminus-moortebeek/) **& HOW NOW, pt.2** (June 2024)
+* [TERMINUS MOORTEBEEK](https://kmplt.org/terminus-moortebeek/) **& HOW NOW, pt.2** (June & September 2024)
 
   * HOW NOW, pt. 2 published as n° 5 of [T I C](https://kasperdemeulemeester.be/t-i-c/)
   * (as part of the *Executive Committee* of *Temporary Information Center, section Moortebeek* (together with[ Jakob Van den Broucke](https://www.jakobvandenbroucke.be)))
+  * also [a guided tour ](<https://heritagedays.urban.brussels/fr/programme/anderlecht/terminus-moortebeek-erfgoedcafe-et-visite-guidee-adieu-macadam/ >)was organised to celebrate the Moortebeek action, 45 years ago.
 * [Boek KINDERWEELDE](https://www.warande.be/programma/8242/kinderweelde-tentoonstelling/tijdelijk-informatie-centrum-afdeling-meerhout-liesbeth-feys)
 
   * (as part of the *Executive Committee* of *Temporary Information Center, section Meerhout* (together with[ Jakob Van den Broucke](https://www.jakobvandenbroucke.be) and [Liesbeth Feys](https://liesbethfeys.com/)))
@@ -65,12 +66,12 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
   * Related: the project Heimat. All three phases of this project are well-documented on [Jakob Van den Broucke](https://www.jakobvandenbroucke.be)'s website.
   * Between july 2020 and now, fifteen sections of T.I.C. have been founded: *A4*, *Akkasie*, *the Berm, Dissemination, Framing, the Freedom (De Vrijheid), Meerhout, Menen, Mol, Moortebeek, Recreation, Sculpture, Watou, WIP, Temporary Transformation Center* and *in oprichting*.  The publication DISSEMINATIE functions as a vademecum to the T.I.C. organisation and the T I C [subscription formula](https://kasperdemeulemeester.be/t-i-c/).
   * The collaboration with Jakob Van den Broucke is and will not be limited to these collaborative entities.
-* [Lokal Fototek Foundation](https://instagram.com/lokalfototekfoundation) (with [Vincen Beeckman](https://www.vincenbeeckman.be)) (on sabbatical)
+* [Lokal Fototek Foundation](https://instagram.com/lokalfototekfoundation) (with [Vincen Beeckman](https://www.vincenbeeckman.be)) (back in business at Heyvaert!)
 * [Buratinas](https://index.nadine.be/family_tag/buratinas/) (with [nadine](https://nadine.be) and Buratinas captains loose group)
 * [WAB.zone](http://wab.zone)
 * [Tropicana](http://instagram.com/tropicanabxl)
 
-  * Started in 2016, this space at the corner of de Hooikaai and the Lakensestraat, next to the KVS theater in the center of Brussels was the longest-running of Kasper's organisational artworks. In the end it was mainly active as a social grocery and foodbank, in collaboration with *[Femmes d'Algers et d'Ailleurs asbl](https://www.grand-hospice.brussels)*. In the spring of 2024, works will start at the building where *Tropicana* is housed, which is owned by the OCMW of the city of Brussels. 
+  * Started in 2016, this space at the corner of de Hooikaai and the Lakensestraat, next to the KVS theater in the center of Brussels was the longest-running of Kasper's organisational artworks. In the end it was mainly active as a social grocery and foodbank, in collaboration with *[Femmes d'Algers et d'Ailleurs asbl](https://www.grand-hospice.brussels)*. In the spring of 2024, works will \[ed. were supposed to] start at the building where *Tropicana* is housed, which is owned by the OCMW of the city of Brussels. As of April 1st, 2024, Tropicana exists as an idea, a mental force behind the multiplex boards the owner hastily screwed in the woodwork to shut the work down. 
 
 \--------------------------------------------------
 
