@@ -8,9 +8,14 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ A selection of recent work (installations, publications,…) : 
 
+* Chers Coopérateurs & HOW NOW, pt. 3 (February 2025)
+
+  * * (as part of the *Executive Committee* of *Temporary Information Center, section Moortebeek* (together with[ Jakob Van den Broucke](<>)))
+
+    * installation and publication on the occasion of the exhibition *[Hier wil ik wonen!](https://c-mine.be/hierwilikwonen)* by vzw Architectuurwijzer, in collaboration with [Joris Kerremans](https://www.joriskerremans.be).
 * [DJ A DONNER](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs)
 
-  * Before disbanding the collection of 7" records within the Estate of Kasper Demeulemeester, different actions are undertaken. Most of the music on the records can be found [here](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs).
+  * Before disbanding the collection of 7" records within the Estate of Kasper Demeulemeester, different actions are undertaken. Some of the music on the records can be found [here](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs).
 * [TERMINUS MOORTEBEEK](https://kmplt.org/terminus-moortebeek/) & HOW NOW, pt.2 (June 2024)
 
   * HOW NOW, pt. 2 published as n° 5 of [T I C](https://kasperdemeulemeester.be/t-i-c/)
