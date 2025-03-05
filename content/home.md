@@ -22,6 +22,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [DJ A DONNER](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs)
 
   * Before disbanding the collection of 7" records within the Estate of Kasper Demeulemeester, different actions are undertaken. Some of the music on the records can be found [here](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs).
+  * a-chronological-list-of-albums-listened-to-by-kasper-demeulemeester-since-March-7-2022-not-making-use-of-a-computer-or-smartphone-all-of-which-can-be-borrowed-[on-simple-request ](https://kasperdemeulemeester.be/a-list-of-albums-you-can-borrow)
 * [TERMINUS MOORTEBEEK](https://kmplt.org/terminus-moortebeek/) **& HOW NOW, pt.2** (June 2024)
 
   * HOW NOW, pt. 2 published as n° 5 of [T I C](https://kasperdemeulemeester.be/t-i-c/)
