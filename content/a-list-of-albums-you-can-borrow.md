@@ -738,3 +738,15 @@ Jean-Michel Jarre - Images - best of
 eels - end times 
 
 Suzanne Vega - Songs in Red and Blue
+
+Vetiver - Complete Strangers
+
+Josh Rouse - Home
+
+The War on Drugs - Lost in the Dream
+
+Cal Smith - My Kind of Country / I just came home to count the Memories
+
+Eric Satie - The piano works
+
+Charley Patton - The definitive
