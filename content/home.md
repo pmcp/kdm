@@ -18,7 +18,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [*Chers Coopérateurs* & HOW NOW, pt. 3 ](< https://vriendenvanbrussel.stackstorage.com/s/HOWNOWIII/nl>)(February 2025)
 
   * as part of the *Executive Committee* of *Temporary Information Center, section Moortebeek* (together with[ Jakob Van den Broucke](<>)))
-  * installation and publication on the occasion of the exhibition *[Hier wil ik wonen!](https://c-mine.be/hierwilikwonen)* by vzw Architectuurwijzer, in collaboration with [Joris Kerremans](https://www.joriskerremans.be).
+  * installation and publication on the occasion of the exhibition *[Hier wil ik wonen!](https://c-mine.be/hierwilikwonen)* and *[Hier wil ik wonen (II)!](https://stamgent.be/nl_be/evenementen/hier-wil-ik-wonen)* by vzw Architectuurwijzer, in collaboration with [Joris Kerremans](https://www.joriskerremans.be).
 * [niwnyhu - museum in oprichting](<https://www.kunstinzicht.be/aanbod/projecten/niwnyhu-museum-in-oprichting/ >) (I, November 2024)
 
   * ongoing performative research workshop series on the exhibitionability of the present, in collaboration with [Kunst in Zicht](<https://www.kunstinzicht.be/aanbod/projecten/niwnyhu-museum-in-oprichting/ >)
