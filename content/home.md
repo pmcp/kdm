@@ -93,6 +93,6 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 To get in contact with the Estate, you can:
 
-* e-mail [Timo Becker](mailto:%20%20%20%20%20%20%20estate@kasperdemeulemeester.be) (who represents the Estate)
+* e-mail [Timo Becker](mailto:estate@kasperdemeulemeester.be) (who represents the Estate)
 * [contact nadine](https://index.nadine.be/artists/kasper-demeulemeester/)
-* Meta media ([Facebook](https://facebook.com/demeulemeesterkasper), [Instagram](https://www.instagram.com/kasperdemeulemeester)) are currently no longer managed by the Estate and can be considered historic artefacts.
+* If any traces of Kasper's activity are found on Meta media (f, I) - [please send a message to Timo Becker](mailto:estate@kasperdemeulemeester.be), as those are not managed by the Estate and are thus possible attempts to hi-jack the work of the Estate.
