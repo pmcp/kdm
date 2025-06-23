@@ -8,6 +8,10 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ A selection of recent work (installations, publications,…) : 
 
+* [11 November](< https://vriendenvanbrussel.stackstorage.com/s/KrgayYHN4BK3HNMd>) (edition)
+
+  * Within the work of the Estate, a transcription exists of Daniël Robberechts' diary from 1968-1969, which was rewritten into Dagboek 68/21-69/22 in 2021 and 2022. This work served as the starting point for an edition focused on the eleventh day of the eleventh month of every year.
+  * a collaboration with [Out of Stock, ](https://www.outofstock.be/)Jakob Van den Broucke, Daniel Robberechts and T I C  subscribers
 * [&&](https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt) (As of February 2025)
 
   * Commission for [new artwork in public&&private space](https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt) GC Nekkersdal, Laken, Brussels, as *collectief van collectieven* with [Jakob Van den Broucke](https://www.JakobVandenBroucke.be) and [Various Artists](http://www.VariousArtists.be)
