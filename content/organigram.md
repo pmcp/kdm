@@ -1,6 +1,6 @@
 ---
 title: ORGANIGRAM
-date: 2025-06-26T12:21:00.000Z
+date: 2025-06-26T11:21:00.000Z
 ---
 ###### [Jakob Van den Broucke](https://www.jakobvandenbroucke.be) && [Kasper Demeulemeester](https://kasperdemeulemeester.be) \
 vertegenwoordigen Tijdelijk Informatie Centrum in de volgende hoedanigheden
