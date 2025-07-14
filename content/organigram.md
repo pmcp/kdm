@@ -3,6 +3,7 @@ title: ORGANIGRAM
 date: 2025-06-26T11:21:00.000Z
 ---
 ###### [Jakob Van den Broucke](https://www.jakobvandenbroucke.be) && [Kasper Demeulemeester](https://kasperdemeulemeester.be) \
+
 vertegenwoordigen Tijdelijk Informatie Centrum in de volgende hoedanigheden
 
 Mede-oprichters\
@@ -15,7 +16,7 @@ Uitvoerend Comité\
 *[afdeling WIP](<https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt >)*
 
 Mede-oprichters\
-*[collectief van collectieven]()*
+*[collectief van collectieven](<https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt >)*
 
 Mede-verantwoordelijken disseminatie\
 *[T I C  abonnementsformule](https://jakobvandenbroucke.be/t-i-c/)*
