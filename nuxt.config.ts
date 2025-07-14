@@ -24,16 +24,16 @@ export default defineNuxtConfig({
     }
   },
   nitro: {
-    prerender: {
-      failOnError: false,
-      ignore: [
-        // Ignore all external URLs (anything not on vriendenvanbrussel.stackstorage.com)
-        /^https?:\/\/(?!vriendenvanbrussel\.stackstorage\.com)/,
-        // Optionally ignore specific external domains you know about
-        /^https?:\/\/.*\.(?!vriendenvanbrussel\.stackstorage\.com)/,
-        // Ignore any relative URLs that might resolve to external domains
-        /^\/\/(?!vriendenvanbrussel\.stackstorage\.com)/
-      ]
-    }
+    // prerender: {
+    //   failOnError: false,
+    //   ignore: [
+    //     // Ignore all external URLs (anything not on vriendenvanbrussel.stackstorage.com)
+    //     /^https?:\/\/(?!vriendenvanbrussel\.stackstorage\.com)/,
+    //     // Optionally ignore specific external domains you know about
+    //     /^https?:\/\/.*\.(?!vriendenvanbrussel\.stackstorage\.com)/,
+    //     // Ignore any relative URLs that might resolve to external domains
+    //     /^\/\/(?!vriendenvanbrussel\.stackstorage\.com)/
+    //   ]
+    // }
   }
 })
