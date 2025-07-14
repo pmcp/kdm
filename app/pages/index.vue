@@ -7,15 +7,15 @@
   </div>
 
   <!--  This nav is here so Nuxt crawls all pages-->
-  <nav class="h-0 overflow-hidden opacity-0">
-    <ContentNavigation v-slot="{ navigation }">
-      <ul>
-        <li v-for="link of navigation" :key="link._path">
-          <NuxtLink :to="link._path">{{ link.title }}</NuxtLink>
-        </li>
-      </ul>
-    </ContentNavigation>
-  </nav>
+<!--  <nav class="h-0 overflow-hidden opacity-0">-->
+<!--    <ContentNavigation v-slot="{ navigation }">-->
+<!--      <ul>-->
+<!--        <li v-for="link of navigation" :key="link._path">-->
+<!--          <NuxtLink :to="link._path">{{ link.title }}</NuxtLink>-->
+<!--        </li>-->
+<!--      </ul>-->
+<!--    </ContentNavigation>-->
+<!--  </nav>-->
 
 
 </template>
