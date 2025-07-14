@@ -15,7 +15,7 @@ Uitvoerend Comité\
 *[afdeling WIP](<https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt >)*
 
 Mede-oprichters\
-*[collectief van collectieven](< >)*
+*[collectief van collectieven]()*
 
 Mede-verantwoordelijken disseminatie\
 *[T I C  abonnementsformule](https://jakobvandenbroucke.be/t-i-c/)*
