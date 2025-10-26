@@ -13,6 +13,9 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
   * Since 2022, Kasper's activities as an artist-retiree have included translating the book [*The Child, the Family and the Outside World* by D.W. Winnicott](<>) to Dutch, as a way to share his enthusiasm for this classic of the psychology of the early childhood with the global Dutch-speaking community.
 
     In October 2025, this translation was published as *Kind, gezin en buitenwereld* by [Borgerhoff & Lamberigts from Ghent](<>), in collaboration with the Estate. Book design by Jeroen Wille.
+* *A thread well spun can bind the devil to a chair*
+
+  * An assemblage of every thread of every pre-bagged tea cup bag Kasper has drunk since retiring, wound to a ball. Also known as *vele kleintjes maken een groot.*
 * [11 November](< https://vriendenvanbrussel.stackstorage.com/s/KrgayYHN4BK3HNMd>) (edition)
 
   * Within the work of the Estate, a transcription exists of Daniël Robberechts' diary from 1968-1969, which was rewritten into Dagboek 68/21-69/22 in 2021 and 2022. This work served as the starting point for an edition focused on the eleventh day of the eleventh month of every year.
