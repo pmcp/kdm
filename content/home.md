@@ -8,7 +8,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ A selection of recent work (installations, publications,…) : 
 
-* Kind, gezin en buitenwereld (translation of The Child, the Family and the Outside World by D.W. Winnicott)
+* [Kind, gezin en buitenwereld](https://www.borgerhoff-lamberigts.be/shop/boeken/kind-gezin-en-buitenwereld) (translation of The Child, the Family and the Outside World by D.W. Winnicott)
 
   * Since 2022, Kasper's activities as an artist-retiree have included translating the book [*The Child, the Family and the Outside World* by D.W. Winnicott](<>) to Dutch, as a way to share his enthusiasm for this classic of the psychology of the early childhood with the global Dutch-speaking community.
 
