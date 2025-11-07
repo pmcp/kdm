@@ -22,6 +22,11 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
   * [](https://index.nadine.be/extra-muros-museum-in-oprichting-musee-en-deveine-etterbeek/)ongoing performative research workshop series on the exhibitionability of the present, in collaboration with [Kunst in Zicht](<https://www.kunstinzicht.be/aanbod/projecten/niwnyhu-museum-in-oprichting/ >)
 
     * the fourth iteration of this work, at the municipality of Etterbeek, Brussels, featured an exhibition about exhibitioning.
+* [O.J.A.I. et al. — Publication Release: Self-Institution / Terminology Audit](https://vimeo.com/1129461248?fl=pl&fe=ti) (contribution to publication) 
+
+  * *"A survey of and reflection on artists using/ hijacking institutional formats."* 
+  * Published by [Set Margins](https://www.setmargins.press/books/self-institution/), available on their website and at local bookstores
+  * Contribution: T.I.C. Lexicon by the *Executive Committee* of the interdepartmental department of Temporary Information Center
 * *A thread well spun can bind the devil to a chair*
 
   * An assemblage of every thread of every pre-bagged tea cup bag Kasper has drunk since retiring, wound to a ball. Also known as *vele kleintjes maken een groot.*
