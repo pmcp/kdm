@@ -17,9 +17,9 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
   * Since 2022, Kasper's activities as an artist-retiree have included translating the book [*The Child, the Family and the Outside World* by D.W. Winnicott](<>) to Dutch, as a way to share his enthusiasm for this classic of the psychology of the early childhood with the global Dutch-speaking community.
 
     In October 2025, this translation was published as *Kind, gezin en buitenwereld* by [Borgerhoff & Lamberigts from Ghent](<>), in collaboration with the Estate. Book design by Jeroen Wille.
-* [museum in oprichting - niwnyhu (IV, Etterbeek, October 2025)](https://index.nadine.be/extra-muros-museum-in-oprichting-musee-en-deveine-etterbeek/)
+* [museum in oprichting / musée en devenir](https://index.nadine.be/extra-muros-museum-in-oprichting-musee-en-deveine-etterbeek/) (IV, Etterbeek, October 2025)
 
-  * [](https://index.nadine.be/extra-muros-museum-in-oprichting-musee-en-deveine-etterbeek/)ongoing performative research workshop series on the exhibitionability of the present, in collaboration with [Kunst in Zicht](<>)
+  * [](https://index.nadine.be/extra-muros-museum-in-oprichting-musee-en-deveine-etterbeek/)ongoing performative research workshop series on the exhibitionability of the present, in collaboration with [Kunst in Zicht](<https://www.kunstinzicht.be/aanbod/projecten/niwnyhu-museum-in-oprichting/ >)
 
     * the fourth iteration of this work, at the municipality of Etterbeek, Brussels, featured an exhibition about exhibitioning.
 * *A thread well spun can bind the devil to a chair*
