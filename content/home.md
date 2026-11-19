@@ -15,6 +15,10 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
   * *Section Moortebeek* was founded by T.I.C. UC in 2023 and takes the 100th anniversary of the Moortebeek garden village as a starting point for thematizing and exploring utopian coexistence and living. 
   * Joris Kerremans exhibition marks the first presentation of what will hopefully one day become the *cooperative gallery l’effort*. 
+* [wanneer zal de kerk de volgende keer branden?](https://pizzagallery.be/Topical-trends-in-teleological-tinkering-with-rara-enenquiry-with) (sculpture, contribution to exhibition, Gent, June 2026)
+
+  * Jakob Van den Broucke summoned *rara (enenquiry)* and assembled recent realisations by samesaid entity.
+  * the Estate contributed a new version of *wanneer zal de kerk de volgende keer branden?* which was the result of a durational performance, briefly shown during the happening *Heimat fase 1: De Tocht* in Meerhout, in 2020.
 * **mensendorp - a human village** (performance, Brussels, May-June 2026)
 
   * the protocol for this performance from the Estate (2018) in the woods of Brussels was reactivated in 2026 with Flemish community cultural centers GC De Kroon and GC De Zeyp
