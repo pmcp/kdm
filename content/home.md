@@ -8,11 +8,14 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ A selection of recent work (installations, publications,…) : 
 
-* niwnyhu - museum in oprichting (V & VI, Geel & Antwerp, May 2026)
+* mensendorp - a human village (performance, Brussels, May-June 2026)
 
-  * * last phases of this performative research workshop series on the exhibitionability of the present, in collaboration with Kunst in Zicht
+  * the performance for this performance from the Estate (2018) in the woods of Brussels was reactivated in 2026 with Flemish community cultural centers GC De Kroon and GC De Zeyp
+  * twenty groups of children relived the experience of being the first people to settle in a village in the historic woods of the Belgian capital
+* niwnyhu - museum in oprichting (V & VI, Geel & VAi Antwerp, May 2026)
 
-    * afterwards, steps were being taken considering the long-term conservability of the archive and the collections of *museum in oprichting*, withpossible futhter action foreseen for 2029.
+  * last phases of this performative research workshop series on the exhibitionability of the present, in collaboration with Kunst in Zicht
+  * afterwards, steps were being taken considering the long-term conservability of the archive and the collections of *museum in oprichting*, withpossible futhter action foreseen for 2029.
 * [The Last House of the Street](https://index.nadine.be/het-laatste-huis-van-de-straat/) (performance and collective emboidery work, GC Op-Weule and Wolubilis, Sint-Lambrechts-Woluwe, Sept 25 - May 26)
 
   * For three seasons, Temporary Information Center, section W(IP) was asked to work in S-L-Woluwe on the themes of change and cooperation.
