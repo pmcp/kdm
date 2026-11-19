@@ -8,18 +8,18 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ A selection of recent work (installations, publications,…) : 
 
-* l'effort / local des plantations (november 2026)
+* **l'effort / local des plantations** (november 2026)
 
   * For the coming nine years, *Section Moortebeek* gets the responsibility and possibility of maintaining the cooperative sculpture garden Jardin de la Sculpture Sociale Beeldentuin and its annex, *cooperative gallery l'effort*, which is sometimes also called local des plantations.
 * [44 tekeningen - 44 drawings - Joris Kerremans](https://index.nadine.be/44-tekeningen-44-drawings/) (exhibition, September 2026)
 
   * *Section Moortebeek* was founded by T.I.C. UC in 2023 and takes the 100th anniversary of the Moortebeek garden village as a starting point for thematizing and exploring utopian coexistence and living. 
   * Joris Kerremans exhibition marks the first presentation of what will hopefully one day become the *cooperative gallery l’effort*. 
-* mensendorp - a human village (performance, Brussels, May-June 2026)
+* **mensendorp - a human village** (performance, Brussels, May-June 2026)
 
   * the protocol for this performance from the Estate (2018) in the woods of Brussels was reactivated in 2026 with Flemish community cultural centers GC De Kroon and GC De Zeyp
   * twenty groups of children relived the experience of being the first people to settle in a village in the historic woods of the Belgian capital
-* niwnyhu - museum in oprichting (V & VI, Geel & VAi Antwerp, May 2026)
+* **niwnyhu - museum in oprichting** (V & VI, Geel & VAi Antwerp, May 2026)
 
   * last phases of this performative research workshop series on the exhibitionability of the present, in collaboration with Kunst in Zicht
   * afterwards, steps were being taken considering the long-term conservability of the archive and the collections of *museum in oprichting*, withpossible futhter action foreseen for 2029.
@@ -28,6 +28,10 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
   * For three seasons, Temporary Information Center, section W(IP) was asked to work in S-L-Woluwe on the themes of change and cooperation.
   * Throughout 4 actions, the future disappearance of the street was thematized. After a (1) Photographic-Therapeutic Walk and a (2) Penthouse Safari, the collected visual material was developed into a collective textile work during countless hours of (3) Work and Thoughts. 
   * The final action of the project took place on May 30, 2026. In the form of a (4) procession, the group walked from community centre Op-Weule through the Woluwe Shopping Centre, past Centre Culturel Wolubilis, via the W (a complex of residential and investment apartments already realized by Urbicoon), to the last house of the street: the farmhouse at the end of Neerveldstraat.
+* [Jardin de la Sculpture Sociale Beelden "l'effort"](https://index.nadine.be/moortebeek-leffort-sculpture-garden/) (performance and cooperative sculptures, Nov-Dec 25)
+
+  * Along with a *cooperative of 4th grade pupils* and MUS-E Belgium a plot of land in a corner of Brussels was turned into a permanent cooperative sculpture garden.
+  * In April 2026, a cooperative day was organised to clear most of the plot of that spring's blossom of nettles, who were turned into soup.
 * [Invisible Cowboy ](https://www.bruzz.be/select/expo/cowboy-zonder-horizon-vincen-beeckman-kasper-demeulemeester-herdenken-de-american-dream) (publication and exhibition at [L'Enfant Sauvage](https://www.enfantsauvagebxl.com/), Brussels, Nov-Dec 25)
 
   * Third iteration of a collaborative exhibition project of the Estate with Brussels' photographer, full-time legend and visual artist [Vincen Beeckman.](https://www.vincenbeeckman.com/) 
