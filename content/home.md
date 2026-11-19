@@ -8,9 +8,16 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ A selection of recent work (installations, publications,…) : 
 
+* l'effort / local des plantations (november 2026)
+
+  * For the coming nine years, *Section Moortebeek* gets the responsibility and possibility of maintaining the cooperative sculpture garden Jardin de la Sculpture Sociale Beeldentuin and its annex, *cooperative gallery l'effort*, which is sometimes also called local des plantations.
+* [44 tekeningen - 44 drawings - Joris Kerremans](https://index.nadine.be/44-tekeningen-44-drawings/) (exhibition, September 2026)
+
+  * *Section Moortebeek* was founded by T.I.C. UC in 2023 and takes the 100th anniversary of the Moortebeek garden village as a starting point for thematizing and exploring utopian coexistence and living. 
+  * Joris Kerremans exhibition marks the first presentation of what will hopefully one day become the *cooperative gallery l’effort*. 
 * mensendorp - a human village (performance, Brussels, May-June 2026)
 
-  * the performance for this performance from the Estate (2018) in the woods of Brussels was reactivated in 2026 with Flemish community cultural centers GC De Kroon and GC De Zeyp
+  * the protocol for this performance from the Estate (2018) in the woods of Brussels was reactivated in 2026 with Flemish community cultural centers GC De Kroon and GC De Zeyp
   * twenty groups of children relived the experience of being the first people to settle in a village in the historic woods of the Belgian capital
 * niwnyhu - museum in oprichting (V & VI, Geel & VAi Antwerp, May 2026)
 
@@ -50,6 +57,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [&&](https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt) (As of February 2025)
 
   * Commission for [new artwork in public&&private space](https://anspersoons.prezly.com/nieuwe-nekkersdalsite-krijgt-kunstwerk-dat-de-toekomst-van-het-gemeenschapscentrum-inbeeldt) GC Nekkersdal, Laken, Brussels, as *collectief van collectieven* with [Jakob Van den Broucke](https://www.JakobVandenBroucke.be) and [Various Artists](http://www.VariousArtists.be)
+  * Six week-lon residencies on the building site of the community cultural center (june 25, nov 25, june 26)
 * [*Chers Coopérateurs* & HOW NOW, pt. 3 ](< https://vriendenvanbrussel.stackstorage.com/s/HOWNOWIII/nl>)(February 2025)
 
   * as part of the *Executive Committee* of *Temporary Information Center, section Moortebeek* (together with[ Jakob Van den Broucke](<>)))
