@@ -8,10 +8,20 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ A selection of recent work (installations, publications,…) : 
 
+* niwnyhu - museum in oprichting (V & VI, Geel & Antwerp, May 2026)
+
+  * * last phases of this performative research workshop series on the exhibitionability of the present, in collaboration with Kunst in Zicht
+
+    * afterwards, steps were being taken considering the long-term conservability of the archive and the collections of *museum in oprichting*, withpossible futhter action foreseen for 2029.
+* [The Last House of the Street](https://index.nadine.be/het-laatste-huis-van-de-straat/) (performance and collective emboidery work, GC Op-Weule and Wolubilis, Sint-Lambrechts-Woluwe, Sept 25 - May 26)
+
+  * For three seasons, Temporary Information Center, section W(IP) was asked to work in S-L-Woluwe on the themes of change and cooperation.
+  * Throughout 4 actions, the future disappearance of the street was thematized. After a (1) Photographic-Therapeutic Walk and a (2) Penthouse Safari, the collected visual material was developed into a collective textile work during countless hours of (3) Work and Thoughts. 
+  * The final action of the project took place on May 30, 2026. In the form of a (4) procession, the group walked from community centre Op-Weule through the Woluwe Shopping Centre, past Centre Culturel Wolubilis, via the W (a complex of residential and investment apartments already realized by Urbicoon), to the last house of the street: the farmhouse at the end of Neerveldstraat.
 * [Invisible Cowboy ](https://www.bruzz.be/select/expo/cowboy-zonder-horizon-vincen-beeckman-kasper-demeulemeester-herdenken-de-american-dream) (publication and exhibition at [L'Enfant Sauvage](https://www.enfantsauvagebxl.com/), Brussels, Nov-Dec 25)
 
   * Third iteration of a collaborative exhibition project of the Estate with Brussels' photographer, full-time legend and visual artist [Vincen Beeckman.](https://www.vincenbeeckman.com/) 
-  * Photo[](https://www.vincenbeeckman.com/)graphy by Vincen Beeckman, textual interventions by Kasper based on travel archives from the Estate
+  * Photography by Vincen Beeckman, textual interventions by Kasper based on travel archives from the Estate
 * [Kind, gezin en buitenwereld](https://www.borgerhoff-lamberigts.be/shop/boeken/kind-gezin-en-buitenwereld) (translation of The Child, the Family and the Outside World by D.W. Winnicott)
 
   * Since 2022, Kasper's activities as an artist-retiree have included translating the book [*The Child, the Family and the Outside World* by D.W. Winnicott](<>) to Dutch, as a way to share his enthusiasm for this classic of the psychology of the early childhood with the global Dutch-speaking community.
@@ -19,7 +29,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
     In October 2025, this translation was published as *Kind, gezin en buitenwereld* by [Borgerhoff & Lamberigts from Ghent](<>), in collaboration with the Estate. Book design by Jeroen Wille.
 * [museum in oprichting / musée en devenir](https://index.nadine.be/extra-muros-museum-in-oprichting-musee-en-deveine-etterbeek/) (IV, Etterbeek, October 2025)
 
-  * [](https://index.nadine.be/extra-muros-museum-in-oprichting-musee-en-deveine-etterbeek/)ongoing performative research workshop series on the exhibitionability of the present, in collaboration with [Kunst in Zicht](<https://www.kunstinzicht.be/aanbod/projecten/niwnyhu-museum-in-oprichting/ >)
+  * ongoing performative research workshop series on the exhibitionability of the present, in collaboration with [Kunst in Zicht](<https://www.kunstinzicht.be/aanbod/projecten/niwnyhu-museum-in-oprichting/ >)
 
     * the fourth iteration of this work, at the municipality of Etterbeek, Brussels, featured an exhibition about exhibitioning.
 * [O.J.A.I. et al. — Publication Release: Self-Institution / Terminology Audit](https://vimeo.com/1129461248?fl=pl&fe=ti) (contribution to publication) 
@@ -45,6 +55,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
   * ongoing performative research workshop series on the exhibitionability of the present, in collaboration with [Kunst in Zicht](<https://www.kunstinzicht.be/aanbod/projecten/niwnyhu-museum-in-oprichting/ >)
   * first iteration at De Warande, Turnhout
+  * second and third iteration: Balen & Antwerp (M HKA)
 * [DJ A DONNER](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs)
 
   * Before disbanding the collection of 7" records within the Estate of Kasper Demeulemeester, different actions are undertaken. Some of the music on the records can be found [here](https://www.youtube.com/playlist?list=PLnQP4VB0whMc6dsu0wWIq5LcOrOv4zVjs).
@@ -57,7 +68,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * [Boek KINDERWEELDE](https://www.warande.be/programma/8242/kinderweelde-tentoonstelling/tijdelijk-informatie-centrum-afdeling-meerhout-liesbeth-feys)
 
   * (as part of the *Executive Committee* of *Temporary Information Center, section Meerhout* (together with[ Jakob Van den Broucke](https://www.jakobvandenbroucke.be) and [Liesbeth Feys](https://liesbethfeys.com/)))
-* [HOW NOW, pt. 1](https://jakobvandenbroucke.be/t-i-c/) (December 2023)[](https://kasperdemeulemeester.be/t-i-c/) 
+* [HOW NOW, pt. 1](https://jakobvandenbroucke.be/t-i-c/) (December 2023) 
 
   * published as n°4 of [T I C](https://kasperdemeulemeester.be/t-i-c/)
   * (as part of the *Executive Committee* of *Temporary Information Center, section Moortebeek* (together with[ Jakob Van den Broucke](https://www.jakobvandenbroucke.be)))
@@ -78,7 +89,7 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 * T I C : [a subscription formula](https://kasperdemeulemeester.be/t-i-c/)  to all the (forthcoming) publications by the different sections of T.I.C. (As of May 2023)
 * Allemaal op de Berm: [collective performance, exhibition and publication](https://www.kunstenplatformplanb.be/projecten/archief/uitwijken-zwankendamme/tijdelijk-informatie-centrum-tic) by Temporary Information Center, section The Berm. (September 2022)
 * Temporary Information Center, dep. A4 : started in the form of an [article in the magazine of newspaper De Standaard](https://vriendenvanbrussel.stackstorage.com/s/artikel_deStandaard) (August 2022)
-* [Publication + Exhibition = A Foray into Concreteness (A4; you for I; euphoria)](https://index.nadine.be/exhibition-publication-a-foray-into-concreteness-a4-you-for-i-euphoria/)[](https://index.nadine.be/exhibition-publication-a-foray-into-concreteness-a4-you-for-i-euphoria/) (February 2022)
+* [Publication + Exhibition = A Foray into Concreteness (A4; you for I; euphoria)](https://index.nadine.be/exhibition-publication-a-foray-into-concreteness-a4-you-for-i-euphoria/) (February 2022)
 * Gansberg-Koekelhoren : [public archives](https://www.kasperdemeulemeester.be/create) (2013-2021)
 * Contained Contexts Containing (dmk) : [exhibition](https://index.nadine.be/contained-contexts-containing-dmk/) (August 2021)
 * Heimat, phase 2: the Continuation : [Heimat, fase 2: de Verderzetting](https://index.nadine.be/de-verderzetting/) (July 2021)
@@ -103,9 +114,9 @@ Since 2021, *the Estate of (de Nalatenschap van) Kasper Demeulemeester* takes ca
 
 ¬ Publications available (get in touch for availability and prices) :
 
-* [HOW NOW](https://jakobvandenbroucke.be/t-i-c/) [](https://index.nadine.be/heimat-the-third-phase/) (T I C  n°4)
+* [HOW NOW](https://jakobvandenbroucke.be/t-i-c/)  (T I C  n°4)
 * [Entitijd](https://jakobvandenbroucke.be/t-i-c/) (T I C  n°3)
-* [](https://vriendenvanbrussel.stackstorage.com/s/allemaalopdeberm_publicatie)[Heimat, De Derde Fase](https://index.nadine.be/heimat-the-third-phase/)[](https://index.nadine.be/heimat-the-third-phase/) (T I C  n°1)
+* [Heimat, De Derde Fase](https://index.nadine.be/heimat-the-third-phase/) (T I C  n°1)
 * [T I C ](/t-i-c/) (Subscription Formula)
 * [DISSEMINATIE](https://jakobvandenbroucke.be/t-i-c) (Vademecum to the Subscription Formula T I C )
 * [Allemaal op de Berm](https://vriendenvanbrussel.stackstorage.com/s/allemaalopdeberm_publicatie)
